@@ -8,7 +8,7 @@ This code is designed to demonstrate underfitting and overfitting, by training a
 * Model complexity
 * Regularization
 
-![demo](images/2023-10-27 23-28-10.gif)
+![demo](images/demo_gif.gif)
 ### Prerequisites
 
 To set up and use this code, ensure that you have the required dependencies installed. You can easily install them by running the following command:
