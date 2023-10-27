@@ -7,11 +7,9 @@ This code is designed to demonstrate underfitting and overfitting, by training a
 * Number of samples used to train model
 * Model complexity
 * Regularization
-<figure>
+<p align="center">
   <img src="images/demo.gif" alt="Demo">
-  <figcaption>Demo of the app.</figcaption>
-</figure>
-
+</p>
 
 ### Prerequisites
 
