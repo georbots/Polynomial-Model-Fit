@@ -16,9 +16,12 @@ pip install -r requirements.txt
 ### Usage
 * Open the code file and configure the following parameters to experiment with different conditions:
 
-  DATAPOINTS: The number of samples used to train the model.
-  POLYNOMIAL_DEGREE: The complexity of the polynomial function.
-  ALPHA: The regularization parameter.
+  -DATAPOINTS: The number of samples used to train the model.
+  
+  -POLYNOMIAL_DEGREE: The complexity of the polynomial function.
+  
+  -ALPHA: The regularization parameter.
+  
   Run the code to perform the polynomial regression experiment and visualize the results.
 
 * The code will generate synthetic data, perform polynomial regression with Ridge regularization, and plot the results to help you gain insights into the concepts of underfitting and overfitting. You can adjust    the parameters to see how different configurations impact the model's performance.
