@@ -8,7 +8,7 @@ This code is designed to demonstrate underfitting and overfitting, by training a
 * Model complexity
 * Regularization
 <p align="center">
-  <img src="images/demo.gif" alt="Demo">
+  <img src="images/demo.gif" alt="Demo" style="width:70%;">
 </p>
 
 ### Prerequisites
