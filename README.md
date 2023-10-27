@@ -7,11 +7,13 @@ This code is designed to demonstrate underfitting and overfitting, by training a
 * Number of samples used to train model
 * Model complexity
 * Regularization
-
 <figure>
   <img src="images/demo.gif" alt="Demo">
   <figcaption>Demo of the app.</figcaption>
-</figure>### Prerequisites
+</figure>
+
+
+### Prerequisites
 
 To set up and use this code, ensure that you have the required dependencies installed. You can easily install them by running the following command:
 pip install -r requirements.txt
