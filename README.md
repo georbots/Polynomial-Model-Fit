@@ -3,7 +3,7 @@
 <a name="readme-top"></a>
 
 ### About
-This code is designed to demonstrate underfitting and overfitting, by training a polynomial regression model on a synthetic dataset. There are three parameters meant to be configured in order to showcase the performance of the model, under different conditions:
+This GitHub repository is dedicated to exploring how polynomial regression models fit a synthetic dataset generated from a sine function with added noise. To assess the model's performance in diverse scenarios, we manipulate three key parameters:
 * Number of samples used to train model
 * Model complexity
 * Regularization
@@ -26,7 +26,5 @@ pip install -r requirements.txt
   -ALPHA: The regularization parameter.
   
   Run the code to perform the polynomial regression experiment and visualize the results.
-
-* The code will generate synthetic data, perform polynomial regression with Ridge regularization, and plot the results to help you gain insights into the concepts of underfitting and overfitting. You can adjust    the parameters to see how different configurations impact the model's performance.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
