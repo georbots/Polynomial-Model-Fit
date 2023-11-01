@@ -29,5 +29,5 @@ pip install -r requirements.txt
 
 
 ### Interactive App
-An interactive app can be tried out [**here**]([insert_link_here](https://polynomial-regression-i2mz52vuwmjehkb4h4g92h.streamlit.app/?fbclid=IwAR0gC9loMhzXKnMYBf16c_fZffup-rMKBxH2x8y_aVApkQywAgafxEBWMo8)https://polynomial-regression-i2mz52vuwmjehkb4h4g92h.streamlit.app/?fbclid=IwAR0gC9loMhzXKnMYBf16c_fZffup-rMKBxH2x8y_aVApkQywAgafxEBWMo8)
+An interactive app can be tried out [here]([insert_link_here](https://polynomial-regression-i2mz52vuwmjehkb4h4g92h.streamlit.app/?fbclid=IwAR0gC9loMhzXKnMYBf16c_fZffup-rMKBxH2x8y_aVApkQywAgafxEBWMo8)https://polynomial-regression-i2mz52vuwmjehkb4h4g92h.streamlit.app/?fbclid=IwAR0gC9loMhzXKnMYBf16c_fZffup-rMKBxH2x8y_aVApkQywAgafxEBWMo8).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
