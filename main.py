@@ -42,12 +42,12 @@ def plot_results(x_range, y_range, y_train, x_train):
     plt.show()
 
 
-def perform_polynomial_regression(data_points, degree):
+def perform_polynomial_regression():
     """Perform polynomial regression and plot the results."""
 
-    x_range, x_train, y_train = create_data(data_points)
+    x_range, x_train, y_train = create_data(DATAPOINTS)
 
-    model = polynomial_regression(x_train.reshape(-1, 1), y_train, degree)
+    model = polynomial_regression(x_train.reshape(-1, 1), y_train, POLYNOMIAL_DEGREE)
     y_range = model.predict(x_range.reshape(-1, 1))
 
     plot_results(x_range, y_range, y_train, x_train)
@@ -59,4 +59,4 @@ POLYNOMIAL_DEGREE = 0
 ALPHA = 0
 
 # Run the experiment and plot results
-perform_polynomial_regression(DATAPOINTS, POLYNOMIAL_DEGREE)
+perform_polynomial_regression()
