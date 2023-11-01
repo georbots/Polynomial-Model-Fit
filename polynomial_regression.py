@@ -1,6 +1,6 @@
 """This code provides a really simple application of multilinear regression
-   in a randomly generated dataset to help build intuition regarding overfitting
-   and regularization techniques."""
+   in a randomly generated dataset to showcase different scenarios when number
+   of samples, order of polynomial function used and regularization change."""
 
 import numpy as np
 import matplotlib.pyplot as plt
