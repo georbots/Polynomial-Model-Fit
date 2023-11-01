@@ -1,7 +1,5 @@
 # Polynomial-Model-Fit
 
-<a name="readme-top"></a>
-
 ### About
 This GitHub repository is dedicated to exploring how polynomial regression models fit a synthetic dataset generated from a sine function with added noise. To assess the model's performance in diverse scenarios, we manipulate three key parameters:
 * Number of samples used to train model
@@ -29,5 +27,5 @@ pip install -r requirements.txt
 
 
 ### Interactive App
-An interactive app can be tried out [here](https://polynomial-regression-i2mz52vuwmjehkb4h4g92h.streamlit.app/?fbclid=IwAR0gC9loMhzXKnMYBf16c_fZffup-rMKBxH2x8y_aVApkQywAgafxEBWMo8)https://polynomial-regression-i2mz52vuwmjehkb4h4g92h.streamlit.app/?fbclid=IwAR0gC9loMhzXKnMYBf16c_fZffup-rMKBxH2x8y_aVApkQywAgafxEBWMo8).
+An interactive app can be tried out [here](https://polynomial-regression-i2mz52vuwmjehkb4h4g92h.streamlit.app/?fbclid=IwAR0gC9loMhzXKnMYBf16c_fZffup-rMKBxH2x8y_aVApkQywAgafxEBWMo8).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
